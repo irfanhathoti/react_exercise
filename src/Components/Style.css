@@ -1,0 +1,54 @@
+.username{
+    color: red;
+    font-size: small;
+    text-align: center;
+}
+/* *{
+    background-color: black;
+} */
+.Container{
+    background-color: black;
+    height: 100vh;
+}
+input{
+    height: 40px;
+    width: 350px;
+}
+
+.error{
+    height: 30px;
+    color: red;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.head{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.form{
+    width: 450px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 3px 3px rgba(128, 128, 128, 0.562);
+    margin-left: 420px;
+    height: 400px;
+    padding: 10px;
+}
+.unsccessful{
+    color: red;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+.success{
+    color: green;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+
+}
+

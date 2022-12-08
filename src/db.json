@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Origin (Brown novel)",
+      "date": "06/05/1999",
+      "author": "Dan Brown",
+      "description": "Origin is a 2017 mystery thriller novel by American author Dan Brown and the fifth installment in his Robert Langdon series, following Inferno."
+    },
+    {
+      "id": 2,
+      "title": "harry potter",
+      "author": " J. K. Rowling",
+      "date": "23/03/1994",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, ..."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
